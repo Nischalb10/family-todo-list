@@ -2,7 +2,7 @@
 
 A beautiful and intuitive todo list application designed for families, allowing each family member to maintain their own separate task list.
 
-![Family Todo List](https://images.unsplash.com/photo-1590402494587-44b71d7772f6?auto=format&fit=crop&q=80&w=1000)
+![Family Todo List](src/images/preview.png)
 
 ## Features
 
