@@ -42,9 +42,6 @@ A beautiful and intuitive todo list application designed for families, allowing 
 ## Technologies Used
 
 - **React**: Frontend framework
-- **Lucide React**: Beautiful, consistent icons
-- **Local Storage**: Browser-based data persistence
-- **Vite**: Next-generation frontend tooling
 
 ## Getting Started
 
@@ -128,13 +125,3 @@ src/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Icons provided by [Lucide](https://lucide.dev/)
-- Design inspired by modern UI/UX practices
-- Built with [Vite](https://vitejs.dev/) + [React](https://reactjs.org/)
